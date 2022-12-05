@@ -1,0 +1,8 @@
+ 7 lines (7 sloc) 179 Bytes
+title: Getting Stronger
+description: Replaces the levelup sound with that of Deltarune's.
+assets:
+- name: se\se350.win32.scd
+  method: copy
+  source:
+  - name: se\se350.win32.scd
