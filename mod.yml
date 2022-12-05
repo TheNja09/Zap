@@ -1,6 +1,5 @@
- 7 lines (7 sloc) 179 Bytes
-title: Getting Stronger
-description: Replaces the levelup sound with that of Deltarune's.
+title: Zap
+description: Replaces the electrcity sound effect in the Xemnas 1 battle with Bulcon's "zap"
 assets:
 - name: se\se350.win32.scd
   method: copy
