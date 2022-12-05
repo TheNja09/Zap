@@ -5,3 +5,7 @@ assets:
   method: copy
   source:
   - name: se\se350.win32.scd
+- name: se\se374.win32.scd
+  method: copy
+  source:
+  - name: se\se374.win32.scd
