@@ -1,11 +1,11 @@
 title: Zap
 description: Replaces the electrcity sound effect in the Xemnas 1 battle with Bulcon's "zap"
 assets:
-- name: se\se350.win32.scd
+- name: remastered\obj\B_EX170.a.us\se\obj\se350
   method: copy
   source:
-  - name: se\se350.win32.scd
-- name: se\se374.win32.scd
+  - name: remastered\obj\B_EX170.a.us\se\obj\se350
+- name: remastered\obj\B_EX170_LV99.a.us\se\obj\se350
   method: copy
   source:
-  - name: se\se374.win32.scd
+  - name: remastered\obj\B_EX170_LV99.a.us\se\obj\se350
